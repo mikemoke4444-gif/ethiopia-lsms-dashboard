@@ -1,0 +1,10 @@
+# Core data stack
+pandas>=2.0
+numpy>=1.24
+
+# Dashboard / visualization
+streamlit>=1.30
+plotly>=5.18
+
+# Optional but recommended for fast CSV I/O
+pyarrow>=14.0
